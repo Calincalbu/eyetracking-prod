@@ -1,0 +1,8 @@
+pandas
+matplotlib
+xlrd
+fathon
+PyWavelets
+openpyxl
+biopython
+scipy
