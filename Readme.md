@@ -30,8 +30,7 @@ In this project...
 | Data               | Has subjects eyetracking data in December 2021                            |
 | Data2              | Has subjects eyetracking data in March 2022                               |
 | generators         | Contains code for matrix generator and a matrix used in scanpath analysis |
-| Extracting data.py | Main script                                                               |
-| file_name.json     | ?                                                                         |
+| Extracting data.py | Main script                                                               |                                                           |
 | functions.py       | Contains algorithms used by main script                                   |
 | requirements.txt   | Contains python modules used in the project, usable with pip install -r   |
 | Results.json       | IPA and scanpath analysis                                                 |
