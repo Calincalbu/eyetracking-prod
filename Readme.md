@@ -1,6 +1,6 @@
 # Eyetracking master's project
 
-In this project...
+In this project I use the eye-tracking data gathered from a Varjo VR-2 headset to analyse the cognitive load during a simulation. 
 
 
 ## Prerequisites
