@@ -1,6 +1,6 @@
 # Eyetracking master's project
 
-In this project I use the eye-tracking data gathered from a Varjo VR-2 headset to analyse the cognitive load during a simulation. 
+In this project I use the eye-tracking data gathered from a Varjo VR-2 headset to analyse the cognitive load during a simulation. One analysis involves computing the pupil activity index and comparing it with the data from a harder scenario. The other analysis involves comparing the scan-path between trials using the same algorithm used in genetic sequencing created by Needleman-Wunsch, and using a custom generator matrix for scoring. 
 
 
 ## Prerequisites
